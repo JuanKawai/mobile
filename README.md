@@ -10,3 +10,6 @@
 
 - A user can ask for the group's money pool/personal debts
 
+- Each group has an owner (the user who created it)
+
+- The expenses/transactions can be only be modified by the creator/group owner
